@@ -4,7 +4,7 @@ A REST API that accepts a name, classifies it using Genderize, Agify, and Nation
 
 ## Base URL
 ```
-https://yourapp.up.railway.app
+https://genderize-api-v2-production.up.railway.app
 ```
 
 ## Endpoints
